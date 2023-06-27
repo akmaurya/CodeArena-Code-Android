@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicScreen</string>
+    <string name="signInTitle">Sign In</string>
+    <string name="logInButton">Log In</string>
+</resources>
